@@ -1,4 +1,4 @@
-# Hi, I'm Alisa 👋
+# Hi, I'm Ali Isa 👋
 
 <div align="center">
 
@@ -17,22 +17,22 @@ I'm a Full Stack Developer who loves turning ideas into reality — from clean U
 
 ---
 
-## Tech Stack
+## 🛠 Tech Stack
 
-### Frontend
+### 🎨 Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Backend
+### ⚙️ Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Databases
+### 🗄️ Databases
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -65,6 +65,7 @@ I'm a Full Stack Developer who loves turning ideas into reality — from clean U
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-alisa--24-181717?style=for-the-badge&logo=github)](https://github.com/alisa-24)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Mohammed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-almahdi-0b521933b)
 
 *Thanks for stopping by — if you like what you see, drop a ⭐ on a repo!*
 
